@@ -1,0 +1,32 @@
+package hello;
+
+public class 천처음초과 {
+
+	public static void main(String[] args) {
+		// 변수
+		int k=0; int e=0; int Sum=0; int Max=0;
+		
+		
+		
+		
+			
+			for(int i=0;i<=100 ;i++) {
+				
+				k=i+2;
+				
+				if(Sum<1000) {
+				
+				
+				Sum=Sum+k;
+				
+				}
+				
+				Sum
+				
+				
+			}
+		
+
+	}
+
+}

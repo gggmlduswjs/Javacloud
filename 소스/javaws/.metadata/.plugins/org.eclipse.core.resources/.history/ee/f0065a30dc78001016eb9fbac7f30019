@@ -1,0 +1,27 @@
+package hello;
+
+public class 일십까지의합 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// 변수 선언
+		  int Sum=0;
+		 //
+		 final int MAX=10;
+		
+		// 반복문
+		
+		for ( int i=0; i<=MAX; i++) {
+			
+			i=i+1;
+			Sum=Sum+i;
+		}
+		
+		
+		System.out.println(Sum);
+		
+
+	}
+
+}
