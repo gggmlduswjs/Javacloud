@@ -1,0 +1,20 @@
+깃허브 소스 공유 
+https://github.com/teacher88
+
+구글슬라이드 공유
+https://docs.google.com/presentation/d/1r_dxm5_Ni3ML8uA_FPpg-HMUXWiTvWHPoBQcp49zrwE/edit?usp=sharing
+
+수업 시간표 공유
+https://docs.google.com/spreadsheets/d/1NIB6jKhzm2Alp3yKf5b1hgfQdgo6KkXPNLq3llvsvLU/edit?usp=sharing
+
+교재를 굉장히 많이 봐야 함, 유데미
+
+2교시
+
+묘듈 다 선택해제
+
+대량의 데이터를 신속정확하게 처리하기 위해서=프로그램
+
+ln->줄바꿈
+
+연산자에서 cast 또는 자료형이 중요함
