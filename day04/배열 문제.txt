@@ -1,0 +1,67 @@
+배열 문제
+
+문제 1번
+(1) char[] ch=new char[10];
+char 타입의 변수 ch 선언 =길이가 10인 char 배열 객체를 생성
+
+(2) int [] n  = {0,1,2,3,4,5};
+int [] n=new int {0,1,2,3,4,5};
+
+(3) char[] day={일, 월, 화, 수, 목, 금, 토}
+
+(4) float [][] d= new float [5][4]
+
+(5) int [][] val=new [][] {{1,2,3,4},{5,6,7,8},{9,10,11,12}}
+
+문제 2번
+(2) int[] array;
+ array=new int[]{1,2,3}
+
+문제 3번
+4번
+
+문제 4번
+(1)
+
+문제 5번
+array->
+[
+	[95, 85]
+	[83, 92, 96]
+	[78, 83,93,87,88]
+]
+
+array.length의 값은 행의 갯수 3개
+array[2].length 2행의 열의 개수 3개
+
+문제 6번
+array->
+[
+	[5, 5, 5, 5, 5],
+	[10, 10, 10],
+	[20, 20, 20, 20],
+	[30, 30]
+]
+
+arr[3].length의 값은 4
+
+문제 7번
+for(int i=0; i<array.length;i++){
+	sum+length[i]=sum;
+}
+
+문제 8번
+(1) sum : 3.3+3.4+5.5=6.7+5.5=12.2
+(2) 
+for(int i=0;i<array.length;i++) {
+sum+= array[i]
+}
+(3) 
+int i=0;
+while (i<array.length) {
+	sum+=array[i];
+	i++;
+}
+(4)
+
+}
