@@ -1,0 +1,77 @@
+8월 28일 day09 
+
+--1교시
+자바 고급p3
+API
+기본개념 알고 0-1올리고 ->노코딩(챗 GPT)로 1-10
+https://docs.oracle.com/en/java/javase/17/docs/api/index.html
+자바 API
+java.base->java.lang 패키지->class 구경->object(object가 최상의 클래스)
+AExam.java
+내부적으로 object는 받는다 모든 클래스는 object를 상속받고 시작한다
+
+--2교시
+boolean, String 많이 씀
+instance Methods 확인하고 all Methods 확인해야함
+엑셀 설명
+p5
+문자열은 이꼴 함수로 비교한다
+스트링은 일반 자료형이 아님 클래스임 그래서 비교할때 함수로
+p6
+CSmartPhone
+마우스 오른쪽 클릭->source->toString 쓸만큼 변수 체크후 ok
+
+--3교시
+p4
+static final -> 반환이 안됨
+api02.System 
+ASystem.java
+PrintStream ps=System.out; ->import java.io.PrintStream;
+InputStream is=System.in; -> import java.io.InputStream ;
+public static void main(String[] args) throws IOException{ -> import java.io.IOException ;
+
+1에서 숫자 들어가고 ->2에서 엔터 들어가서 숫자가 못들어감
+=>엔터 값 처리해야함
+\r\n->엔터
+
+채팅->문자열
+파일업로드(엑셀 등)->바이트 방식
+
+java.base->java.util->Scanner
+
+
+--4교시
+
+java.base->java.lang->System
+
+BTime.java
+api 찾기
+SimpleDate
+너무 길면 절을 따서 네이밍
+
+p8
+
+--5교시
+p10
+String01
+String02
+
+--6교시
+p11
+valueOf
+
+--7교시
+String03
+데이터가 넘어올 때 하나 아님 여러개가 넘어옴
+자바스크립트,자바 배열없음
+근데 db는 없음->"", 문자열로 구분해서 들어옴
+나중에 빼올때는 컴마로 가지고 옴
+
+String04
+문자열=>배열 자바, 자바스크립트,DB 상관관계 정리
+
+--8교시
+자습
+
+--9교시
+자습
